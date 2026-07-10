@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "MMM",
+        "MMM",
+        "MMM"
+    ],
+    "key": {
+        "M": { "item": "minecraft:magma_block" }
+    },
+    "result": { "item": "elementalgear:compacted_magma_1" }
+}
