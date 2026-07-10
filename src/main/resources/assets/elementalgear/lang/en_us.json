@@ -1,0 +1,36 @@
+{
+    "itemGroup.elementalgear.main": "Elemental Gear",
+
+    "block.elementalgear.compacted_magma_1": "1x Compacted Magma",
+    "block.elementalgear.compacted_magma_2": "2x Compacted Magma",
+    "block.elementalgear.compacted_magma_3": "3x Compacted Magma",
+    "block.elementalgear.compacted_ice_1": "1x Compacted Ice",
+    "block.elementalgear.compacted_ice_2": "2x Compacted Ice",
+    "block.elementalgear.compacted_ice_3": "3x Compacted Ice",
+    "block.elementalgear.ruby_ore": "Ruby Ore",
+    "block.elementalgear.deepslate_ruby_ore": "Deepslate Ruby Ore",
+    "block.elementalgear.magma_generator": "Magma Generator",
+    "block.elementalgear.ice_generator": "Ice Generator",
+
+    "item.elementalgear.ruby": "Ruby",
+
+    "item.elementalgear.lava_helmet": "Lava Helmet",
+    "item.elementalgear.lava_chestplate": "Lava Chestplate",
+    "item.elementalgear.lava_leggings": "Lava Leggings",
+    "item.elementalgear.lava_boots": "Lava Boots",
+    "item.elementalgear.lava_sword": "Lava Sword",
+    "item.elementalgear.lava_pickaxe": "Lava Pickaxe",
+    "item.elementalgear.lava_axe": "Lava Axe",
+    "item.elementalgear.lava_shovel": "Lava Shovel",
+    "item.elementalgear.lava_hoe": "Lava Hoe",
+
+    "item.elementalgear.ice_helmet": "Ice Helmet",
+    "item.elementalgear.ice_chestplate": "Ice Chestplate",
+    "item.elementalgear.ice_leggings": "Ice Leggings",
+    "item.elementalgear.ice_boots": "Ice Boots",
+    "item.elementalgear.ice_sword": "Ice Sword",
+    "item.elementalgear.ice_pickaxe": "Ice Pickaxe",
+    "item.elementalgear.ice_axe": "Ice Axe",
+    "item.elementalgear.ice_shovel": "Ice Shovel",
+    "item.elementalgear.ice_hoe": "Ice Hoe"
+}
