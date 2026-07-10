@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+        "all": "elementalgear:block/deepslate_ruby_ore"
+    }
+}
